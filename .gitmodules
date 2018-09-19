@@ -1,0 +1,4 @@
+[submodule "aptmioc"]
+	path = aptmioc
+	url = https://gitlab.esss.lu.se/beam-diagnostics/bde/epics/iocs/aptmioc
+	ignore = all
